@@ -6,5 +6,3 @@ bot = Reciever.create(name: "The Bot", email: "test@hotmail.co.uk")
 # message2 = Message.create(reciever: bot,  content: 'Hi I am Megan! ' )
 
 
-
-
