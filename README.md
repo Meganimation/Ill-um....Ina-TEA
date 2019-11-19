@@ -4,7 +4,7 @@
 <b> A personal-portfolio with a built-in, fully animated AI robot which enjoys conversation. Contains full CRUD and OAUTH 2 </b>
 </br>
 </br>
-Back-end can be found<a href='https://github.com/Meganimation/mod5bot'> here. </a> 
+Front-end can be found<a href='https://github.com/Meganimation/mod5bot'> here. </a> 
 </br>
 </br>
 <h2> How to Install and View... </h2>
