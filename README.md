@@ -32,10 +32,10 @@ Ruby, Rails, Python, PostGres
 </br> 
 DialogFlow, Redux
 <h3> Misc. </h3>
-Bridge CC, Cintiq Bamboo 2, Animate CC, Photoshop CS5, Illustrator CC,
+Bridge CC, Cintiq Bamboo 2, Animate CC, Photoshop CS5, Illustrator CC
 </br> 
 <h2> Credits & Contributions </h2>
-A huge thank you to everyone at Flatiron School, and a special shoutout to Eric, Jack, Nikki and Graham for helping me unlock my potential. 
+A huge thank you to everyone at Flatiron School, and a special shoutout to Eric, Jack, Nicky and Graham for helping me unlock my potential. 
 </br> 
 </br> 
 <i> For any issues, queries, or feedback, please email MeganOliviaWendyAdams@gmail.com </i>
